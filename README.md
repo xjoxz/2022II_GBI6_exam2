@@ -1,7 +1,7 @@
 # 2022II_GBI6_exam2
 ## Examen de Bioinformática, módulo de Python
 ## Examen 1
-![logo](https://user-images.githubusercontent.com/104948498/203671124-f5399b8b-0aac-4f34-9300-3e1f68ffab1b.png)
+![Logo ikiam](https://user-images.githubusercontent.com/104948498/216205487-bf863d1d-8aa7-4d5f-adc5-04a9d1d086ab.png)
 ## Datos del curso
 - Bioinformática Grupo 1
 ## Datos personales
