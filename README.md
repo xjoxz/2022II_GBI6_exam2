@@ -5,9 +5,9 @@
 ## Datos del curso
 - Bioinformática Grupo 1
 ## Datos personales
--Nombre: Josué Leonardo Chango Gómez
--Sexo: Masculino
--Ciudad de origen: Tena
+- Nombre: Josué Leonardo Chango Gómez
+- Sexo: Masculino
+- Ciudad de origen: Tena
 - Residencia: Plan de Salud
 ## Datos del equipo
 ### Edición de Windows
